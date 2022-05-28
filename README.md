@@ -1,2 +1,0 @@
-# BBbOT
-priv bot
